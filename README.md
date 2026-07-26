@@ -1,8 +1,7 @@
-# CST8917-Lab7
+# CST8917 Lab 3: FleetBook — Vehicle Booking with Service Bus, Logic Apps & Functions
+---
 
-# FleetBook - Serverless Vehicle Booking System
-
-FleetBook is a serverless vehicle booking system built with Azure Service Bus, Azure Functions, Azure Logic Apps, and a simple HTML web client.
+Video Demo: https://youtu.be/9MuNTkj_jRs 
 
 ---
 
