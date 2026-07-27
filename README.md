@@ -1,4 +1,9 @@
 # CST8917 Lab 3: FleetBook — Vehicle Booking with Service Bus, Logic Apps & Functions
+
+---
+**Student Name**: Naveed Hossain             **Student ID**: 0410818822 
+**Course**: CST8917 - Serverless Applications
+**Semester**: Summer 2026
 ---
 
 Video Demo: https://youtu.be/9MuNTkj_jRs 
